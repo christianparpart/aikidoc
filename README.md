@@ -4,12 +4,12 @@ aikidoc
 ## Angriffsformen
 
 1. aihanmi katate dori
-1. gyakuhanmi katate dori
+1. gyaku hanmi katate dori
 1. kata dori [men uchi]
 1. mune dori
 1. shomen uchi
 1. yokomen uchi
-1. tsuki
+1. tsuki (jodan tsuki, chudan tsuki)
 1. ushiro katate eri dori
 1. katate ryote dori (morote dori)
 1. ryote dori
